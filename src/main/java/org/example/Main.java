@@ -7,10 +7,8 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.println("Welcome to JavaBank ATM! Version control with Git.");
-        System.out.println("Welcome to JavaBank ATM!");
-        System.out.println("Welcome to JavaBank ATM! master");
-
-
-
+        System.out.println("Welcome to JavaBank");
+        System.out.println("Welcome to JavaBank ATM! feature");
+        System.out.println("Welcome to JavaBank ATM! feature1");
     }
 }
